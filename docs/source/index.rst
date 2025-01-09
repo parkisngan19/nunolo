@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+Nuno Lò
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Nuno Lò <https://sun6win.com/author/nunolo/>`_ là một trong những nhân vật nổi bật gắn liền với sự phát triển và thành công của Sunwin – nền tảng chơi game trực tuyến hàng đầu châu Á. Với vai trò quan trọng trong việc định hướng chiến lược và phát triển sản phẩm, Nuno Lò đã đóng góp đáng kể vào việc xây dựng Sunwin trở thành biểu tượng uy tín và đổi mới trong ngành giải trí trực tuyến. Dưới sự lãnh đạo của ông, Sunwin không ngừng cải tiến hệ sinh thái trò chơi, áp dụng công nghệ hiện đại và mang đến những trải nghiệm độc đáo, đáp ứng nhu cầu của hàng triệu người chơi trên toàn thế giới.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa chỉ: 56 Liên Khu 4-5, Bình Hưng Hoà B, Bình Tân, Hồ Chí Minh, Việt Nam. 
 
-   This project is under active development.
+Phone: 0876799815. 
 
-Contents
---------
+Email: contact@sun6win.com. 
 
-.. toctree::
+Website: https://sun6win.com/author/nunolo/ 
 
-   usage
-   api
+#nunolo #ceonunolo #nunolo_sunwin
